@@ -1,2 +1,2 @@
 # Facelo
-Facebook Content Management Tools
+Facelo is tools content management for facebook, this tools will help you upload content to facebook automaticly. less effort to manage many account with easy to use.
